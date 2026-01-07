@@ -310,7 +310,7 @@ MIT License
 
 ## Author
 
-GitHub Copilot
+Ronald
 
 ## Contributing
 
