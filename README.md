@@ -11,14 +11,6 @@
 
 ## 安装
 
-### 方法一：从 SSC 安装（推荐）
-
-```stata
-ssc install ai
-```
-
-### 方法二：手动安装
-
 1. 下载以下文件：
    - `ai.ado`
    - `AI_api.py`
@@ -26,7 +18,12 @@ ssc install ai
 
 2. 将文件放入 Stata 的 ado 目录：
    ```stata
+   * 查看 ado 目录位置
    adopath
+   
+   * 通常放入 personal 目录，例如：
+   * Windows: C:\ado\personal\
+   * Mac: ~/ado/personal/
    ```
 
 ## 系统要求
